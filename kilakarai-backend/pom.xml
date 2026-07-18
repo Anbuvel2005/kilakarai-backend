@@ -42,7 +42,7 @@
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
 
-
+        <!-- Oracle JDBC -->
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
